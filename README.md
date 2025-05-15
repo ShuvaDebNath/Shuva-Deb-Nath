@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvadn&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShuvaDebNath&theme=default" />
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShuvaDebNath)
