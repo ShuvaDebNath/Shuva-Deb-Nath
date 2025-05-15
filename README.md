@@ -38,7 +38,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Backend Boilerplate](https://github.com/ShuvaDebNath/BackendBoilerplate) | Clean API with authentication, DTOs, and validation | ASP.NET Core Web API |
+| [Backend Boilerplate](https://github.com/ShuvaDebNath/BackendBoilerplate) | This boilerplate is designed to simplify and accelerate the daily workflow of backend developers by addressing repetitive and time-consuming tasks. | ASP.NET Core Web API, Clean Architecture |
 
 ---
 
