@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shuva Deb Nath</h1>
 <h3 align="center">Peace-loving .NET Developer | Clean Architecture Enthusiast | ERP & FinTech Innovator</h3>
 
+<p align="center">
+  ![.NET](https://img.shields.io/badge/.NET-8.0-blue)
+  ![Clean Architecture](https://img.shields.io/badge/Architecture-Clean-informational)
+  ![FinTech](https://img.shields.io/badge/Domain-FinTech-success)
+  ![ERP](https://img.shields.io/badge/ERP-Solution-critical)
+  ![Blog](https://img.shields.io/badge/Medium-Blog-black)
+</p>
 ---
 
 ### 👨‍💻 About Me
@@ -41,6 +48,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ShuvaDebNath&show_icons=true&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvaDebNath&layout=compact" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvadn&theme=default" />
+</p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShuvaDebNath)
 
 ---
 
