@@ -31,9 +31,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [ERP Query Assistant](UpComming) | Natural language to SQL for ERP using RAG + OpenAI | ASP.NET Core, OpenAI |
-| [Backend Boilerplate]((https://github.com/ShuvaDebNath/BackendBoilerplate)) | Clean API with authentication, DTOs, and validation | ASP.NET Core Web API |
-| [Company & Personal Loan EMI Calculator](UpComming) | Calculates amortization, IDCP & IDGP, supports complex frequency | ASP.NET Core MVC, JS |
+| [Backend Boilerplate](https://github.com/ShuvaDebNath/BackendBoilerplate) | Clean API with authentication, DTOs, and validation | ASP.NET Core Web API |
 
 ---
 
