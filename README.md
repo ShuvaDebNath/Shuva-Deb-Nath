@@ -62,6 +62,8 @@
 - [🔗 Custom Middleware JWT Validation](https://medium.com/@shuvadebnathbd/how-to-manually-validate-a-jwt-token-in-middleware-for-asp-net-core-3d0df72d8885)
 - [🔗 Mastering Asynchronous Operations in AngularJS with Promises: A Real Example](https://medium.com/@shuvadebnathbd/mastering-asynchronous-operations-in-angularjs-with-promises-a-real-example-e964433125d3)
 
+> 📰 More on [Medium →](https://medium.com/@shuvadebnathbd)
+
 ---
 
 ### 🤝 Let’s Connect
