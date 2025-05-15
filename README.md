@@ -38,8 +38,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuvadn&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvadn&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShuvaDebNath&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvaDebNath&layout=compact" />
 </p>
 
 ---
