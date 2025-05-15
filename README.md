@@ -2,11 +2,11 @@
 <h3 align="center">Peace-loving .NET Developer | Clean Architecture Enthusiast | ERP & FinTech Innovator</h3>
 
 <p align="center">
-  ![.NET](https://img.shields.io/badge/.NET-8.0-blue)
-  ![Clean Architecture](https://img.shields.io/badge/Architecture-Clean-informational)
-  ![FinTech](https://img.shields.io/badge/Domain-FinTech-success)
-  ![ERP](https://img.shields.io/badge/ERP-Solution-critical)
-  ![Blog](https://img.shields.io/badge/Medium-Blog-black)
+  <img src="https://img.shields.io/badge/.NET-8.0-blue" />
+  <img src="https://img.shields.io/badge/Architecture-Clean-informational" />
+  <img src="https://img.shields.io/badge/Domain-FinTech-success" />
+  <img src="https://img.shields.io/badge/ERP-Solution-critical" />
+  <img src="https://img.shields.io/badge/Medium-Blog-black" />
 </p>
 ---
 
